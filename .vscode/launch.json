@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApipokemonApplication<apipokemon>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.apipokemon.apipokemon.ApipokemonApplication",
+            "projectName": "apipokemon",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
